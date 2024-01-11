@@ -103,5 +103,5 @@ theme: landscape
 deploy:
     type: git
     repo: git@github.com:Aliuyanfeng/aliuyanfeng.github.io.git
-    branch: main
+    branch: develop
     message: ${{ github.event.head_commit.message }}
