@@ -3,6 +3,8 @@ title: Python使用wkhtmltopdf 进行PDF的生成
 date: 2024-01-10 14:40:05
 highlight: an-old-hope
 tags: 
+categories: Python
+description: 本文简要介绍了 Python环境下如何进行HTML-->PDF的转换，以及遇到的问题及解决方案。
 ---
 #### 概述
 
