@@ -64,9 +64,6 @@ index_generator:
   per_page: 10
   order_by: -date
 
-# Automatically excerpt description in homepage as preamble text.
-excerpt_description: true
-
 
 # Category & Tag
 default_category: uncategorized
