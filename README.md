@@ -9,15 +9,15 @@
 
 <br/>  
 
-## Github Stats  
-<div align="center1">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aliuyanfeng&hide_border=true&layout=compact" align="center" />
-</div>    
+## Github Stats    
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aliuyanfeng&show_icons=true&count_private=true&hide_border=true" align="left" />  
 </div>     
 
-<br/>  
+
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aliuyanfeng&hide_border=true&layout=compact" align="center" />
+</div>  
 
 
 
